@@ -1,0 +1,1 @@
+The goal of this study is to see how well a machine learning system can distinguish between city and nature sounds. It receives a large amount of audio data, which is evaluated and processed using three different machine learning methods. The accuracy of each algorithm is measured to evaluate which model is better at identifying the sounds.
